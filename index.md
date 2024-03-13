@@ -2,4 +2,4 @@
 ## Introduction
 #### Background information
 
-add the structure of a literature review
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
